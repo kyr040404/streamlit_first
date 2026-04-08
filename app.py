@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import time
 
-st.header('1. st.cache_data 사용 예시')
+st.header('캐싱 예시 입니다.')
 
 # 캐싱 없는 데이터 로딩 함수
 def load_data_no_cache():
